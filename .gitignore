@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AiDrivenTodo/copilot-chat/6e8ea06b/sessions
+/.vs/AiDrivenTodo/CopilotIndices/17.12.31.40377
+/.vs/AiDrivenTodo/DesignTimeBuild
+/.vs
+/src/AiDrivenTodo/bin/Debug/net9.0
+/src/AiDrivenTodo/obj

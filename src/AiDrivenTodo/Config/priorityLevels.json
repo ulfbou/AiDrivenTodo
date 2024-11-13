@@ -1,0 +1,15 @@
+{
+  1: [ "minor", "insignificant", "low-priority", "non-urgent", "background", "optional", "nice-to-have" ],
+  2: [ "routine", "periodic", "standard", "regular", "low-importance" ],
+  3: [ "important", "significant", "necessary", "required", "should-do", "helpful" ],
+  4: [ "urgent", "time-sensitive", "immediate", "high-priority" ],
+  5: [ "essential", "must-do", "crucial", "vital" ],
+  6: [ "emergency", "time-critical", "high-impact", "disaster recovery" ],
+  7: [ "business-critical", "mission-critical", "top-priority", "high-stakes" ],
+  8: [ "severe", "major incident", "system failure" ],
+  9: [ "catastrophic", "disastrous", "apocalyptic", "Priority" ],
+  10: [ "world-ending", "existential threat" ],
+  "High": [ "urgent", "important", "critical" ],
+  "Medium": [ "follow-up", "schedule", "soon" ],
+  "Low": [ "optional", "low", "later" ]
+}
